@@ -1,0 +1,31 @@
+@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+.btn {
+    font-size: 18;
+    padding: 10;
+}
+
+.btn-primary {
+    background-color: #4c51bf;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: #718096;
+    color: white;
+}
+
+.h2 {
+    font-size: 24;
+    font-weight: bold;
+    margin: 10 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.p-4 {
+    padding: 16;
+}
